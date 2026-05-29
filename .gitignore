@@ -1,0 +1,38 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+.pnpm-store
+
+# build output
+/dist
+/build
+*.tsbuildinfo
+
+# logs
+logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# env
+.env
+.env.local
+.env.*.local
+
+# coverage
+/coverage
+.nyc_output
+
+# uploads (local file storage)
+/uploads/*
+!/uploads/.gitkeep
+
+# editor / os
+.DS_Store
+.idea
+*.swp
+.vscode/*
+!.vscode/extensions.json
