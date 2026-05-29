@@ -1,0 +1,7 @@
+{
+  "article_not_found": "Статтю не знайдено",
+  "appointment_not_found": "Запис не знайдено",
+  "payment_not_found": "Платіж не знайдено",
+  "invalid_signature": "Невірний підпис платежу",
+  "malformed_callback": "Некоректні дані колбеку"
+}

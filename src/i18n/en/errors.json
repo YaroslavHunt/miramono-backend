@@ -1,0 +1,7 @@
+{
+  "article_not_found": "Article not found",
+  "appointment_not_found": "Appointment not found",
+  "payment_not_found": "Payment not found",
+  "invalid_signature": "Invalid payment signature",
+  "malformed_callback": "Malformed callback payload"
+}
